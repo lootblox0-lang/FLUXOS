@@ -4,7 +4,7 @@ Instead of jumping between a dozen different tools, Fluxos brings your academic 
 
 Key Highlights:
 
-🎯 Customizable Dashboard: Drag, drop, and personalize widgets to build your dream setup.
+🎯 Customizable Dashboard: Customize the interface in whatever way you want, full accessibility
 
 ⚡ Gamified System: Earn EXP by completing tasks, building habit streaks, and hitting PRs to unlock hidden achievements and arcade access.
 
